@@ -1,1 +1,7 @@
-This is my Zine and over here I will get to see what a time machine might feel like.
+# Time Travel Zine - Introduction
+
+## Layout Section
+This zine is gonna be organized into sections for easy reading.
+
+## Introduction
+This is my zine, where I explore what a time machine might feel like.
