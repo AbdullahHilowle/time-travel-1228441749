@@ -1,19 +1,19 @@
 # Release Notes - v1.0
 
 ## Summary
-This is the first stable release of the **Time Travel Zine** project, featuring a complete layout, organized structure, and refined content.
+First stable release of the **Time Travel Zine** project, featuring a complete structure, refined layout, and polished content.
 
 ## Features
-- Clear and consistent layout that makes the zine easy to read and navigate  
-- Fully developed content sections exploring time travel concepts and ideas  
-- Final review and polish for improved flow and readability  
-- Resolved earlier content overlaps to ensure a smooth and cohesive experience  
+- Established zine layout and organization structure (PR #4)  
+- Added comprehensive content sections covering time travel concepts (PR #5)  
+- Implemented final polish and cleanup for readability (PR #6)  
+- Resolved merge conflicts to ensure smooth content integration (PR #8)  
 
 ## Fixes
-- Reworked the introduction for better clarity and tone  
-- Smoothed out the layout section for a more natural reading experience  
+- Improved introduction wording for better clarity (commit 7d9486f)  
+- Refined layout section for a smoother reading experience (commit 26fdf36)  
 
 ## Infrastructure
-- Added a `.gitignore` file to keep the repository clean and organized  
-- Included an MIT License and a simple Code of Conduct  
-- Updated the README with a brief overview and branch strategy  
+- Added `.gitignore` to exclude log files and build artifacts (commit 9a1f489)  
+- Implemented MIT License and Code of Conduct (commits aaf1f58, c058e6e)  
+- Documented branch strategy in README (commit 404c0a3)  
