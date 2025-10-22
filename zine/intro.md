@@ -1,10 +1,10 @@
 # Time Travel Zine - Introduction
 
-## Layout Section
-This zine is gonna be organized into sections for easy reading.
+## Layout
+This zine is organized into simple sections for a smoother reading experience.
 
 ## Introduction
-This is my zine, where I explore what a time machine might feel like.
+Welcome to my zine, where I explore what a time machine might feel like.
 
 ## Content
-I’ll write short pieces about time travel here and what it can teach us about life.
+Here, I share short pieces about time travel and what it can teach us about life.
