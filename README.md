@@ -1,6 +1,6 @@
 ## I am learning how to use Git branches and pull requests.
 
-##.gitignore pattern
+## .gitignore pattern
 - This file skips saving temporary or automatically created files so it stays neat and easy to manage.
 
 ## Branches Use Cases
